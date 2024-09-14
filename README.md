@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python rag_qna.py --file "file_name_here" --input "input prompt here"
 
 Eg: 
-python rag_qna.py --file hr_policies_v101.pdf --input "get me options for availing business travel reimbursement"
+python rag_qna.py --file hr_policies_v101.pdf --input "Can you show me the holidays for this month which not falling under weekends?"
