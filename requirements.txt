@@ -1,0 +1,6 @@
+pypdf
+langchain_community
+langchain_chroma
+langchain-openai
+faiss-gpu
+#angchain_chroma #use this if you are using chroma for vector store
